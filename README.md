@@ -1,1 +1,1 @@
-Hello! I am Joseph D'Angelo, I am a computer science student at The University of California, Riverside.
+Hello! I am Joey D'Angelo, I am a computer science student at The University of California, Riverside.
